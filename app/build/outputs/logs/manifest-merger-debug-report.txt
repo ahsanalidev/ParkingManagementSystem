@@ -1,0 +1,284 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+MERGED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\7df26908078c74ff4eeaf46e7b6b476c\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\cd2555db0203a9129fdeb1355c14dcc8\play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\26c7c6eb12d6a79e3dc6176267fcdab0\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2905ca591d95bf0e403f68a05d4ee4e5\play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2b8a3547a6423f6fb15f19a78415dd89\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\9d8beade5ee8f73dfe2dbbf1bcefd393\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fb64895045b937c99805be897a2a6961\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:1-34:12
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:10:5-32:19
+MERGED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-11:19
+MERGED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-11:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\cd2555db0203a9129fdeb1355c14dcc8\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\cd2555db0203a9129fdeb1355c14dcc8\play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\26c7c6eb12d6a79e3dc6176267fcdab0\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\26c7c6eb12d6a79e3dc6176267fcdab0\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2905ca591d95bf0e403f68a05d4ee4e5\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2905ca591d95bf0e403f68a05d4ee4e5\play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2b8a3547a6423f6fb15f19a78415dd89\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2b8a3547a6423f6fb15f19a78415dd89\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\9d8beade5ee8f73dfe2dbbf1bcefd393\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\9d8beade5ee8f73dfe2dbbf1bcefd393\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:16:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:17:9-19:71
+	android:value
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:19:13-68
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:18:13-58
+activity#com.example.puffer.parkingdemo.MainActivity
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:21:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.example.puffer.parkingdemo.ParkingMapActivity
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:28:9-56
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:28:19-53
+activity#com.example.puffer.parkingdemo.ParkingListActivity
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:29:9-57
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:29:19-54
+activity#com.example.puffer.parkingdemo.ParkingInfoActivity
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:30:9-57
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:30:19-54
+activity#com.example.puffer.parkingdemo.ParkingFuzzySearchActivity
+ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:31:9-73
+	android:name
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml:31:19-61
+uses-sdk
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+MERGED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\7df26908078c74ff4eeaf46e7b6b476c\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\7df26908078c74ff4eeaf46e7b6b476c\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3ec6fa8458ddbe732478393a9f9e6c77\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\cd2555db0203a9129fdeb1355c14dcc8\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\cd2555db0203a9129fdeb1355c14dcc8\play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\26c7c6eb12d6a79e3dc6176267fcdab0\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\26c7c6eb12d6a79e3dc6176267fcdab0\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2905ca591d95bf0e403f68a05d4ee4e5\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2905ca591d95bf0e403f68a05d4ee4e5\play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2b8a3547a6423f6fb15f19a78415dd89\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\2b8a3547a6423f6fb15f19a78415dd89\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\9d8beade5ee8f73dfe2dbbf1bcefd393\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\9d8beade5ee8f73dfe2dbbf1bcefd393\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4f680f5cab482b7966fa9c805ac0cb70\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\61965e5c06bda9445c13760f9d9ef779\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\ec593f8d91037f6ef1bbcd6a177afa1c\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4f8b5527496d67480951cc322460db7f\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fb64895045b937c99805be897a2a6961\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fb64895045b937c99805be897a2a6961\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\5276819c062a92c029464122749254f1\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4932f7e67b26f042b51fa62f1aa4816d\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\8849109129fcb2f39779166fb64480b1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\00bc847ce5b9e3ce7b40d465bffbf9e9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\5ad830c9e1047f79e3f0f7e9e42ab8ab\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3c457ded457b98b207b4f227d629399\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3d4a3c67e39fa8d6d0c0f126c28b81d8\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\82b148795609bbbaf8e825fc2ff2a6bf\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\246153fc0686d4ff78c8961ca91329b7\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c70a8bef3ed62675d42960780f476d6e\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fb2fbe77879a57ea0c5dfd6fe59ba874\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\4c7e5b6d46acfb24c04b3a473c53b419\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\f582580d3eb247a74d915a27810a4674\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\c75155371656c04dff3a027cdeb13e8a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\53b4a4cf87c0ff501a8c414cec884555\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\94d1bdd9d3f5e77b2c2deb76d0ecef77\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\63647da4654da12a6f2785cfbbad8123\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\733fc1d306cee2c05d3e1fb0b7527020\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\fdd65d8b6066fd289a68b42931dc03a2\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\3a992d8307f21a8f15eb649383ba6a6a\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\app\src\main\AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\9d8beade5ee8f73dfe2dbbf1bcefd393\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\9d8beade5ee8f73dfe2dbbf1bcefd393\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [:library] C:\Users\Ahsan Ali\AndroidStudioProjects\ParkingDemo\library\build\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-58
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\34093bbe6dab499ceaf527e7ae33d38c\play-services-iid-17.0.0\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\580dbf6373ab80539b0a72cdab78aab4\play-services-gcm-17.0.0\AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\a3d702a77cbfacefb23de82416a0cb1f\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Ahsan Ali\.gradle\caches\transforms-2\files-2.1\77c2fc448e2bd0738fd67dce062b1efd\play-services-base-17.0.0\AndroidManifest.xml:24:13-79

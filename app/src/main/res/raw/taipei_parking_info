@@ -1,0 +1,1668 @@
+{
+   "parkings":[
+      {
+         "id":"058",
+         "area":"Zhongshan Area",
+         "name":"Civic Avenue (Zhonglin Section)",
+         "type":"1",
+         "type2":"1",
+         "summary":"Stereo mini car with 496 frames (including 10 parking spaces for disabled persons))。",
+         "address":"North Zhongshan Road-Linsen North Road (underground)",
+         "tel":"2395-5514",
+         "payex":"Timing: 20 yuan / hour (8-18), 10 yuan / hour (18-8). Daily (20-8) charges a maximum of 50 yuan, half-hour billing. Monthly rent: 3,600 yuan per day, 2,400 yuan during the day (7-19), 1,200 yuan during the night (limited to Monday to Friday 19-8, and Saturdays, Sundays, and holiday anniversaries, folk customs",
+         "servicetime":"00:00:00~23:59:59",
+         "tw97x":"302745.088",
+         "tw97y":"2771185.18",
+         "totalcar":"496",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"3",
+         "Handicap_First":"10",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00~08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08~18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18~24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00~08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08~18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18~24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.047853",
+                  "Ycod":"121.522508",
+                  "Addresss":"ABC adrdress"
+               }
+            ]
+         }
+      },
+      {
+         "id":"057",
+         "area":"Zhongshan Area",
+         "name":"Civic Boulevard (Middle Section)",
+         "type":"1",
+         "type2":"1",
+         "summary":"Stereo mini car 184 grid (including 4 grids for physically and mentally disabled parking spaces) . ",
+         "address":"Park Road-Zhongshan North Road (underground)",
+         "tel":"2531-9579",
+         "payex":"Timing: 30 yuan / hour, 10 yuan / hour at night (18-8). The whole journey is charged at half an hour. Monthly rent: RMB 4,800 throughout the day, RMB 3,000 during the day (7 -19), and RMB 1,200 during the night (20-8). ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"302388.459",
+         "tw97y":"2771232.09",
+         "totalcar":"184",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"4",
+         "TOTALLARGEMOTOR":"2",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.04815",
+                  "Ycod":"121.5191",
+                  "Addresss":"Public middle"
+               }
+            ]
+         }
+      },
+      {
+         "id":"056",
+         "area":"Daan District",
+         "name":"Daan Forest Park underground stop",
+         "type":"1",
+         "type2":"1",
+         "summary":"1360 grids for small three-dimensional vehicles (including 27 grids for physically and mentally disabled parking spaces). Three-dimensional locomotive 344 grids (including 8 grids for physically and mentally disabled parking spaces).",
+         "address":"Jianguo South Road",
+         "tel":"2709-2940",
+         "payex":"Time: Weekdays: (8-23) 20 yuan / hour, (23-8) 10 yuan / hour, holiday: (8-23) time 40 yuan (23-8) time 10 yuan, the whole journey is counted in half an hour fee. Monthly rent: 3,600 yuan, 3,360 yuan in the area, ordinary residents 3,480 yuan, day (7-19) 2,800 yuan, night (18-8) 1,500 yuan, locomotive free of charge. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"304225.666",
+         "tw97y":"2769534.80",
+         "totalcar":"1360",
+         "totalmotor":"344",
+         "totalbike":"20",
+         "Pregnancy_First":"4",
+         "Handicap_First":"27",
+         "TOTALLARGEMOTOR":"2",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 23",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"23 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 23",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"23 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.031977",
+                  "Ycod":"121.537456",
+                  "Addresss":"Section 2, Jianguo South Road"
+               },
+               {
+                  "Xcod":"25.033418",
+                  "Ycod":"121.535742",
+                  "Addresss":"Section 3 of Xinyi Road"
+               }
+            ]
+         }
+      },
+      {
+         "id":"052",
+         "area":"Songshan District",
+         "name":"Underground parking lot of Minsheng Community Activity Center",
+         "type":"1",
+         "type2":"2",
+         "summary":" Underground parking lot with 151 small car bays ",
+         "address":" Minsheng Road 5 segment 163 at No. 1 Ground Floor 2 , 3F layer ",
+         "tel":"2240-8767",
+         "payex":"It costs 30 yuan and costs half an hour for the whole journey. Monthly rent: 5,760 yuan / month, 4,032 yuan per month for local",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"306771.829",
+         "tw97y":"2772514.97",
+         "totalcar":"155",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"3",
+         "Handicap_First":"4",
+         "TOTALLARGEMOTOR":"0",
+         "ChargingStation":"1",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.05980251",
+                  "Ycod":"121.5626311",
+                  "Addresss":" Alley 4, Lane 137, Section 5, Minsheng East Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"067",
+         "area":"Wanhua District",
+         "name":" Underground Parking Lot at Shuangyuan Elementary School ",
+         "type":"1",
+         "type2":"1",
+         "summary":" Three-dimensional small car with 321 grids ( including 7 grids for physically and mentally disabled parking spaces ) . ",
+         "address":" Xiyuan Road . ",
+         "tel":"2301-6115",
+         "payex":" Timing: 30 yuan / hour (08-22) , 10 yuan / hour (22-8) , the full fare is charged for half an hour, monthly ticket: 5,200 yuan per day. Taxi is free for one hour. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"299616.907",
+         "tw97y":"2768938.87",
+         "totalcar":"321",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"7",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.02799",
+                  "Ycod":"121.49152",
+                  "Addresss":""
+               }
+            ]
+         }
+      },
+      {
+         "id":"069",
+         "area":"Wanhua District",
+         "name":" Under Parking Lot at Youth Park Baseball Stadium ",
+         "type":"1",
+         "type2":"1",
+         "summary":" Three - dimensional small car with 276 grids ( including 6 parking spaces for disabled persons ) . Three - dimensional locomotives with 118 grids ( including 3 parking spaces for disabled persons ) . ",
+         "address":" Underground 69 , Youth Road ",
+         "tel":"2309-2133",
+         "payex":" Time is 30 yuan, and the whole journey is charged for half an hour. Monthly rent: 4,800 yuan per day for monthly tickets, 2,400 yuan (18-8) for night tickets . 20 yuan for locomotive and 300 yuan for monthly locomotive . Free taxis are available for free Hours service. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"300790.825",
+         "tw97y":"2768479.84",
+         "totalcar":"276",
+         "totalmotor":"118",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"6",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.02376497",
+                  "Ycod":"121.5028903",
+                  "Addresss":" Youth Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"068",
+         "area":" Shilin District ",
+         "name":" Wenchang Elementary School Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 222 cells ( including disability parking 5 format ) perspective locomotive. 293 cells ( including disability parking 6 cells ) . ",
+         "address":" Wenlin Road ",
+         "tel":"8919-3669",
+         "payex":" Timing: 20 yuan / hour, full half-hour billing. Monthly rent: 4,800 yuan, free for locomotive. Taxi is free for one hour. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"302530.863",
+         "tw97y":"2776916.90",
+         "totalcar":"222",
+         "totalmotor":"293",
+         "totalbike":"10",
+         "Pregnancy_First":"3",
+         "Handicap_First":"5",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.09939802",
+                  "Ycod":"121.5211864",
+                  "Addresss":" Wenlin Road Lane 615 "
+               }
+            ]
+         }
+      },
+      {
+         "id":"060",
+         "area":"Zhongshan Area",
+         "name":" Citizens Avenue ( Jianfu Section )",
+         "type":"1",
+         "type2":"1",
+         "summary":" Three-dimensional small car with 178 grids ( including 4 grids for physically and mentally disabled parking spaces ) . ",
+         "address":" Jianguo North Road - Fuxing South Road ( underground )",
+         "tel":"2775-1072",
+         "payex":" Timing: 30 yuan / hour. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"304577.728",
+         "tw97y":"2770821.76",
+         "totalcar":"178",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"4",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 21",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"21 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 21",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"21 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.044689",
+                  "Ycod":"121.540605",
+                  "Addresss":" 建 复 段"
+               }
+            ]
+         }
+      },
+      {
+         "id":"061",
+         "area":" Beitou District ",
+         "name":" Yangmingshan Stereoscopic Parking Lot ",
+         "type":"1",
+         "type2":"2",
+         "summary":" Stereo parking lot, there are 246 locomotives and 209 small car compartments ",
+         "address":" Hushan Road ( near the gate of Yangmingshan Park )",
+         "tel":"2655-0818",
+         "payex":" Timing: Monday to Friday: small cars per hour 20 Yuan on Saturday and Sunday, holiday and the anniversary of the government administration folk festival: small cars per hour, 30 yuan ( full half hour to calculate fees ) total time. : The locomotive is 20 yuan each time ( excluded every other day ) . The charging rates and methods for all types of vehicles during the flowering season and the taro season will be implemented according to the charging standards and methods notified by the Stop Administration. Daily from 19:00 to 07:00 the following day ( including Holidays ) Free parking is available. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"304333.626",
+         "tw97y":"2783074.63",
+         "totalcar":"213",
+         "totalmotor":"251",
+         "totalbike":"0",
+         "Pregnancy_First":"0",
+         "Handicap_First":"5",
+         "FareInfo":{
+
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.15463195",
+                  "Ycod":"121.5390314",
+                  "Addresss":" Section 1 of Hushan Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"062",
+         "area":"Songshan District",
+         "name":"Civic Boulevard (Futun Section)",
+         "type":"1",
+         "type2":"1",
+         "summary":"Three-dimensional small car with 214 grids (including 5 grids for physically and mentally disabled parking spaces).",
+         "address":" Fuxing South Road - Dunhua South Road ( underground )",
+         "tel":"2721-1136",
+         "payex":" Time: Sunday to Thursday: (8-12) 30 yuan, (12-23) 40 yuan, (23-08) 10 yuan, Friday to Saturday: (8-12) 40 yuan, (12-23) 50 yuan, (23-08) 10 yuan, the whole journey is charged for half an hour. Monthly rent: 6,500 all day , 3,600 yuan during the day (7-19) , 3,000 yuan during the night (19-8) . Taxis are available at the venue Free ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"305171.593",
+         "tw97y":"2770881.94",
+         "totalcar":"214",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"5",
+         "TOTALLARGEMOTOR":"0",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"23 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"18 ~ 23",
+                  "Fare":"40"
+               },
+               {
+                  "Period":"23 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.044996",
+                  "Ycod":"121.547474",
+                  "Addresss":"Fundun section "
+               }
+            ]
+         }
+      },
+      {
+         "id":"064",
+         "area":"Songshan District",
+         "name":" Citizens Avenue ( Tunyan Section )",
+         "type":"1",
+         "type2":"1",
+         "summary":" Three-dimensional small car with 217 grids ( including 5 grids for physically and mentally disabled parking spaces ) . ",
+         "address":" South Dunhua Road - Yanji Street ( underground )",
+         "tel":"2577-4364",
+         "payex":" Time: Monday to Friday: (8-22) 30 yuan, (22-8) 10 yuan, Saturday to Sunday: (8-18) 30 yuan, (18-23) 40 yuan, ( 23-08) 10 yuan, half-hour billing for the whole journey. Monthly rent: 6,500 for the whole day , 3,600 yuan during the day (7-19) , 3,000 yuan during the night (19-8) . Taxi service is free for one hour at this venue ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"305558.940",
+         "tw97y":"2770837.90",
+         "totalcar":"217",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"0",
+         "Handicap_First":"5",
+         "TOTALLARGEMOTOR":"0",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"23 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"18 ~ 23",
+                  "Fare":"40"
+               },
+               {
+                  "Period":"23 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.04475",
+                  "Ycod":"121.550816",
+                  "Addresss":" Dunyan Section "
+               }
+            ]
+         }
+      },
+      {
+         "id":"065",
+         "area":"Songshan District",
+         "name":" Citizen Avenue ( Yanji Section )",
+         "type":"1",
+         "type2":"1",
+         "summary":" Three-dimensional small car with 79 grids ( including 2 grids for physically and mentally disabled parking spaces ) . ",
+         "address":"On both sides of Yanji Street ( underground )",
+         "tel":"2579-3244",
+         "payex":" Time: Sunday to Thursday: (8-12) 30 yuan, (12-23) 40 yuan, (23-08) 10 yuan, Friday to Saturday: (8-12) 40 yuan, (12-23) 50 yuan, (23-08) 10 yuan, the whole journey is charged for half an hour. Monthly rent: 6,500 all day , 3,600 yuan during the day (7-19) , 3,000 yuan during the night (19-8) . Taxis are available at the venue Free ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"305858.412",
+         "tw97y":"2770805.97",
+         "totalcar":"79",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"2",
+         "TOTALLARGEMOTOR":"0",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"23 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"18 ~ 23",
+                  "Fare":"40"
+               },
+               {
+                  "Period":"23 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.044465",
+                  "Ycod":"121.552155",
+                  "Addresss":" Yanji Section "
+               }
+            ]
+         }
+      },
+      {
+         "id":"039",
+         "area":" Shilin District ",
+         "name":" Community Park Parking Lot ",
+         "type":"1",
+         "type2":"1",
+         "summary":" Tower Desktop small car 280 cells ( including handicapped parking spaces 6 grid ) . ",
+         "address":" Yanping North Road ",
+         "tel":"2662-4110",
+         "payex":" Timing: 20 yuan / hour, full half-hour billing. Monthly rent: 3,600 yuan per day, 1,800 yuan (18-8) at night , 2,520 yuan in the neighborhood (in the garden ) , and around (in the agency) Xin, Shezi, and Yonglunli ) 2,880 yuan. Taxi service is free for one hour. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"301034.258",
+         "tw97y":"2775795.37",
+         "totalcar":"280",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"0",
+         "Handicap_First":"0",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"20"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"20"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.08957075",
+                  "Ycod":"121.5060651",
+                  "Addresss":" Section 6 of Yanping North Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"037",
+         "area":"Daan District",
+         "name":" Daan Senior Engineering Underground Parking Lot ",
+         "type":"1",
+         "type2":"1",
+         "summary":" Triple mini car with 526 grids ( including 11 parking spaces for disabled persons ) . ",
+         "address":" Xinyi Road ",
+         "tel":"2702-7924",
+         "payex":" Timing: 30 yuan / hour (9-21) , 10 yuan / hour (21-9) , half-hour billing for the whole process. Monthly rent: 5,760 yuan for the whole day , 4,200 yuan (7-20 for the day) ) , 1,500 yuan (20-7) at night . Taxi is free for one hour at this venue. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"304680.898",
+         "tw97y":"2769501.70",
+         "totalcar":"526",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"11",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 09",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"09 ~ 21",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"21 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 09",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"09 ~ 21",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"21 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.032743",
+                  "Ycod":"121.540845",
+                  "Addresss":"Section 3 of Xinyi Road166 Alley 6 , Lane "
+               }
+            ]
+         }
+      },
+      {
+         "id":"036",
+         "area":" Beitou District ",
+         "name":" Dafeng Park Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 235 cells ( including handicapped parking spaces 5 grid ) . ",
+         "address":"145 Daxing Street ",
+         "tel":"2892-1209",
+         "payex":" Timing: (7-22) 30 yuan / hour, (22-7) 10 yuan / hour, the full fare will be charged for half an hour. A full-day monthly ticket is 4,000 yuan, and the people in the area ( Qingjiangli ) are all day offers monthly 3,500 yuan. this field provides free one hour taxi service. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"300813.615",
+         "tw97y":"2780396.61",
+         "totalcar":"235",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"3",
+         "Handicap_First":"5",
+         "TOTALLARGEMOTOR":"0",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 07",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"07 ~ 19",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"19 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 07",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"07 ~ 19",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"19 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.131153",
+                  "Ycod":"121.50434",
+                  "Addresss":" Daxing Street "
+               }
+            ]
+         }
+      },
+      {
+         "id":"035",
+         "area":" Datong District ",
+         "name":" Naribu High School Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" Three-dimensional small car with 273 grids ( including 6 grids for physically and mentally disabled parking spaces ) . ",
+         "address":" Chengde 2 section 235 at No. 1 Underground ",
+         "tel":"2552-0589",
+         "payex":" Time is 40 yuan (09-21 pm ) , 30 yuan (21-09 pm ) is charged for half an hour. Monthly rent: a daily discount of 5,760 yuan, and a night ticket (19-08) discount of 2,400 yuan. This field Free taxi service for one hour. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"302443.992",
+         "tw97y":"2772624.48",
+         "totalcar":"273",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"6",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.06041045",
+                  "Ycod":"121.520117",
+                  "Addresss":" Second Section of Chengde Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"034",
+         "area":" Wenshan District ",
+         "name":" Xinhai Elementary School Underground Parking ",
+         "type":"1",
+         "type2":"2",
+         "summary":"A two-level underground parking lot with 129 parking spaces for small cars. ",
+         "address":"Xinhai Road ",
+         "tel":"29300568",
+         "payex":" Timing: 20 yuan (08-18) \ / hour, 10 yuan (18-the next day 08) \ / hour, the whole journey will be charged at half an hour. Monthly rent: 3840 yuan / month for a full day monthly ticket , Limin Discount ( Xingchangli ) full-day monthly ticket 2688 yuan \ / month, Limin discount ( Xingtaili ) full-day monthly ticket 3,000 yuan / month. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"306385.240",
+         "tw97y":"2766588.77",
+         "totalcar":"132",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"1",
+         "Handicap_First":"3",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.00595409",
+                  "Ycod":"121.5585309",
+                  "Addresss":" Second Section of Wanmei Street "
+               }
+            ]
+         }
+      },
+      {
+         "id":"033",
+         "area":"Zhongshan Area",
+         "name":" Jin'an Park Underground Parking ",
+         "type":"1",
+         "type2":"2",
+         "summary":"It is a three-level underground parking lot with 150 parking spaces for small cars ",
+         "address":" Bade Road ",
+         "tel":"2542-1501",
+         "payex":" Time is 20 yuan, and the whole journey is charged for half an hour. Full-day monthly ticket is 4,800 yuan \ / month, Limin monthly discount ticket is 3,840 yuan \ / month, and Limin monthly ticket is 3,360 yuan / month. Day monthly ticket is 3,000 yuan \ / Month (7-20) , night monthly ticket 2,000 yuan / month (20-7) , ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"304256.222",
+         "tw97y":"2770992.88",
+         "totalcar":"150",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"3",
+         "TOTALLARGEMOTOR":"0",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"20"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"20"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.04613004",
+                  "Ycod":"121.5377132",
+                  "Addresss":" Second Section of Bade Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"031",
+         "area":"Daan District",
+         "name":" Underground parking lot of Fuzhong Park ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 118 cells ( including disability parking 4 grid ) . ",
+         "address":" Fuxing South Road ",
+         "tel":"2701-4453",
+         "payex":" Timing: (8-21) 50 yuan / hour, (21-8) 10 yuan / hour, the full fare is charged for half an hour. Monthly rent: 5,760 yuan a day. Taxi taxis provide one hour free service . ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"304723.351",
+         "tw97y":"2769906.87",
+         "totalcar":"118",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"4",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 21",
+                  "Fare":"40"
+               },
+               {
+                  "Period":"21 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 21",
+                  "Fare":"40"
+               },
+               {
+                  "Period":"21 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.03618209",
+                  "Ycod":"121.5423053",
+                  "Addresss":" Lane 340, Section 1, Fuxing South Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"032",
+         "area":"Songshan District",
+         "name":" Nisatsu High School Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 341 cells ( including handicapped parking spaces 7 grid ) . ",
+         "address":"Health Road ",
+         "tel":"2528-4554",
+         "payex":" Timing: 30 yuan at night (22-8) clocking 10 yuan, the whole half-hour monthly billing: Full day 5,250 yuan, day 2,800 yuan (7-20) , at night 2,450 yuan (18-9 ) , This field is free for one hour by taxi. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"307094.919",
+         "tw97y":"2772078.85",
+         "totalcar":"341",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"3",
+         "Handicap_First":"7",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.05586333",
+                  "Ycod":"121.5660542",
+                  "Addresss":" Alley 19, Lane 325, Health Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"045",
+         "area":"Xinyi District",
+         "name":" Taipei 101 Parking Lot ",
+         "type":"1",
+         "type2":"2",
+         "summary":" There are 1263 small car compartments, 2990 locomotive compartments ",
+         "address":" Shifu Road No. 45 B2 ~ B4",
+         "tel":"8101-8293",
+         "payex":" Timing: Small car weekdays 70 Yuan \ / , the Holiday 100 Yuan \ / , the locomotive 20 Yuan \ / , the parking is less than 1 hour to 1 hour meter, more than 1 hour or more persons, less than half an hour to Half-hour billing. Monthly rental: 10,000 yuan for small cars / month. ",
+         "servicetime":"06: 00: 00 ~ 23: 59: 00",
+         "tw97x":"306888.017",
+         "tw97y":"2769632.52",
+         "totalcar":"1263",
+         "totalmotor":"2990",
+         "totalbike":"0",
+         "Pregnancy_First":"",
+         "Handicap_First":"26",
+         "FareInfo":{
+
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.03335",
+                  "Ycod":"121.56355",
+                  "Addresss":""
+               }
+            ]
+         }
+      },
+      {
+         "id":"044",
+         "area":"Wanhua District",
+         "name":" Under Parking Lot at Youth Park Golf Course ",
+         "type":"1",
+         "type2":"1",
+         "summary":" Three-dimensional small car with 321 grids ( including 6 parking spaces for disabled persons ) . Three-dimensional locomotives with 157 grids ( including 7 parking spaces for disabled persons ) . ",
+         "address":"Guoxing Road ",
+         "tel":"2337-9616",
+         "payex":" Time is 30 yuan, and the whole journey is charged for half an hour. Monthly rent: 4,800 yuan per day for monthly tickets, 2,400 yuan (18-8) for night tickets . 20 yuan for locomotive and 300 yuan for monthly locomotive . Free taxis are available for free Hours service. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"301246.148",
+         "tw97y":"2768507.43",
+         "totalcar":"321",
+         "totalmotor":"157",
+         "totalbike":"0",
+         "Pregnancy_First":"3",
+         "Handicap_First":"6",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.024982",
+                  "Ycod":"121.507529",
+                  "Addresss":" Guoxing Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"047",
+         "area":"Daan District",
+         "name":" Yuanqi Center Underground Parking Lot ",
+         "type":"1",
+         "type2":"2",
+         "summary":" Underground parking lot with 425 small car parking spaces. ",
+         "address":"Dunhua South Road ",
+         "tel":"2736-3033",
+         "payex":" Timing: 100 yuan / hour, free within 5 minutes, full half-hour billing. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"305430.735",
+         "tw97y":"2768770.51",
+         "totalcar":"425",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"4",
+         "Handicap_First":"8",
+         "FareInfo":{
+
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.02596",
+                  "Ycod":"121.55005",
+                  "Addresss":""
+               }
+            ]
+         }
+      },
+      {
+         "id":"040",
+         "area":"Songshan District",
+         "name":" Healthy Elementary School Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 195 cells.",
+         "address":" Yanshou Street ",
+         "tel":"2759-0666",
+         "payex":" Timing: 30 yuan / hour, the whole journey will be charged for half an hour. Monthly rent: 5,250 yuan per day. Taxi service is free for one hour. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"306738.661",
+         "tw97y":"2772157.76",
+         "totalcar":"195",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"3",
+         "Handicap_First":"5",
+         "TOTALLARGEMOTOR":"3",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.05606978",
+                  "Ycod":"121.5623652",
+                  "Addresss":" San Min Road 43 Lane "
+               }
+            ]
+         }
+      },
+      {
+         "id":"042",
+         "area":" Datong District ",
+         "name":" Built Underground Parking Lot ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 330 cells ( including disability parking 7 format ) perspective locomotive. 160 cells ( including disability parking 3 cell ) . ",
+         "address":" Chang'an West Road ",
+         "tel":"2759-0666",
+         "payex":" Timing: 30 yuan / hour (8-22) , 10 yuan at night (22-8) \ / hour. For locomotive 10 yuan / hour, the maximum charge for that day is 30 yuan, and the whole journey will be charged for half an hour. Monthly pass: RMB 7,200 per day , RMB 4,800 (8-19) during the day, RMB 2,400 (19-8) during the night, RMB 300 per day for locomotive, half-price concessionary monthly pass for disabled persons, where ( ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"302454.824",
+         "tw97y":"2771581.35",
+         "totalcar":"330",
+         "totalmotor":"160",
+         "totalbike":"16",
+         "Pregnancy_First":"2",
+         "Handicap_First":"7",
+         "TOTALLARGEMOTOR":"2",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.05082694",
+                  "Ycod":"121.5196596",
+                  "Addresss":" Alley 28, Lane 18, Nanjing West Road "
+               }
+            ]
+         }
+      },
+      {
+         "id":"043",
+         "area":"Nangang District",
+         "name":" Xingzhong Three-dimensional Parking Lot ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 639 cells ( including disability parking 13 cells ) . perspective locomotive 152 cells ( including disability parking 4 grid ) . ",
+         "address":"Xingzhong Road ",
+         "tel":"2783-2912",
+         "payex":" Time is 20 yuan, and the whole journey is charged for half an hour. The night discount is 10 yuan (18-8) , and the locomotive is 20 yuan. The full-day monthly ticket is 2500 yuan, and the monthly locomotive ticket is 300 yuan. The taxi provides one hour free service . ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"311193.240",
+         "tw97y":"2772128.99",
+         "totalcar":"639",
+         "totalmotor":"152",
+         "totalbike":"15",
+         "Pregnancy_First":"2",
+         "Handicap_First":"13",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"4",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 18",
+                  "Fare":"20"
+               },
+               {
+                  "Period":"18 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.05598911",
+                  "Ycod":"121.606168",
+                  "Addresss":" Xing Road 44 , Lane "
+               }
+            ]
+         }
+      },
+      {
+         "id":"019",
+         "area":" Datong District ",
+         "name":" Tacheng Park Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 151 cells ( including disability parking 4 grid ) . ",
+         "address":"Tacheng Street ",
+         "tel":"2559-0032",
+         "payex":" Timed 30 yuan. Full day discount monthly pass 5,760 yuan, night monthly pass 3,000 yuan (21-8) . ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"301557.525",
+         "tw97y":"2771503.76",
+         "totalcar":"151",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"3",
+         "Handicap_First":"4",
+         "TOTALLARGEMOTOR":"1",
+         "ChargingStation":"2",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 24",
+                  "Fare":"30"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.050878",
+                  "Ycod":"121.510586",
+                  "Addresss":" Tacheng Street "
+               }
+            ]
+         }
+      },
+      {
+         "id":"016",
+         "area":" Zhongzheng District ",
+         "name":" Zhongshantang Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" Small-sized mini car 440 grid ( including 9 grids for physically and mentally disabled parking spaces ) . ",
+         "address":" Yanping South Road ",
+         "tel":"2312-0612",
+         "payex":" Monday to Friday (8-20) time 40 yuan, (20-8) time 10 yuan, Saturdays, Sundays and holiday anniversaries and folk festivals (10-20) time 40 yuan , (20-10) clocked 10 yuan, the monthly all-day 4,600 yuan, daytime (07-19) 3,600 yuan, the night (19-08) to 1,000 yuan. ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"301507.707",
+         "tw97y":"2770749.58",
+         "totalcar":"431",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"2",
+         "Handicap_First":"9",
+         "TOTALLARGEMOTOR":"null",
+         "ChargingStation":"null",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 20",
+                  "Fare":"40"
+               },
+               {
+                  "Period":"20 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 10",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"10 ~ 20",
+                  "Fare":"40"
+               },
+               {
+                  "Period":"20 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.044164",
+                  "Ycod":"121.510693",
+                  "Addresss":" Section 1 of Wuchang Street "
+               }
+            ]
+         }
+      },
+      {
+         "id":"023",
+         "area":"Songshan District",
+         "name":" Civil Rights Park Underground Parking ",
+         "type":"1",
+         "type2":"1",
+         "summary":" three-dimensional small car 714 cells ( including handicapped parking spaces 15 grid ) . ",
+         "address":" Minquan East Road ",
+         "tel":"2765-5004",
+         "payex":" Timing: 30 yuan at night (22-8) clocking 10 yuan, the whole half-hour monthly billing: Full day 5,250 yuan, day 2,800 yuan (7-19) This course provides a free one hour taxi service. . ",
+         "servicetime":"00: 00: 00 ~ 23: 59: 59",
+         "tw97x":"306294.385",
+         "tw97y":"2772717.98",
+         "totalcar":"714",
+         "totalmotor":"0",
+         "totalbike":"0",
+         "Pregnancy_First":"0",
+         "Handicap_First":"15",
+         "TOTALLARGEMOTOR":"4",
+         "ChargingStation":"4",
+         "FareInfo":{
+            "WorkingDay":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ],
+            "Holiday":[
+               {
+                  "Period":"00 ~ 08",
+                  "Fare":"10"
+               },
+               {
+                  "Period":"08 ~ 22",
+                  "Fare":"30"
+               },
+               {
+                  "Period":"22 ~ 24",
+                  "Fare":"10"
+               }
+            ]
+         },
+         "Entrancecoord":{
+            "EntrancecoordInfo":[
+               {
+                  "Xcod":"25.06214",
+                  "Ycod":"121.55877",
+                  "Addresss":"Fourth Section of Minquan East Road "
+               }
+            ]
+         }
+      },
+
+
+
+
+
+
+
+
+      {
+
+            "id": "027",
+
+            "area": " Wenshan District ",
+
+            "name": " Jinghua Park Underground Parking ",
+
+            "type": "1",
+
+            "type2": "1",
+
+            "summary": " Small car 746 grids ( including 15 grids for physically and mentally disabled parking spaces ) . ",
+
+            "address": " King Wah Street ",
+
+            "tel": "2930-2054",
+
+            "payex": " Timing: 20 yuan per hour ( full half-hour billing ) . Monthly rent: 4,800 yuan per day discount , 2,800 yuan per day monthly ticket in the place, 3,200 yuan per month in a 300- meter radius , and daytime (7 -19) 2,400 yuan, and (19-8) 1,500 yuan at night . ",
+
+            "servicetime": "00: 00: 00 ~ 23: 59: 59",
+
+            "tw97x": "304892.459",
+
+            "tw97y": "2765362.80",
+
+            "totalcar": "746",
+
+            "totalmotor": "0",
+
+            "totalbike": "0",
+
+            "Pregnancy_First": "2",
+
+            "Handicap_First": "15",
+
+            "TOTALLARGEMOTOR": "1",
+
+            "ChargingStation": "4",
+
+            "FareInfo": {
+
+              "WorkingDay": [
+
+                {
+
+                  "Period": "00 ~ 08",
+
+                  "Fare": "10"
+
+                },
+
+                {
+
+                  "Period": "08 ~ 18",
+
+                  "Fare": "20"
+
+                },
+
+                {
+
+                  "Period": "18 ~ 24",
+
+                  "Fare": "10"
+
+                }
+
+              ],
+
+              "Holiday": [
+
+                {
+
+                  "Period": "00 ~ 08",
+
+                  "Fare": "10"
+
+                },
+
+                {
+
+                  "Period": "08 ~ 18",
+
+                  "Fare": "20"
+
+                },
+
+                {
+
+                  "Period": "18 ~ 24",
+
+                  "Fare": "10"
+
+                }
+
+              ]
+
+            },
+
+            "Entrancecoord": {
+
+              "EntrancecoordInfo": [
+
+                {
+
+                  "Xcod": "24.99602387",
+
+                  "Ycod": "121.5439202",
+
+                  "Addresss": " King Hing Road 46 Lane "
+
+                }
+
+              ]
+
+            }
+
+          }
+
+   ]
+}
